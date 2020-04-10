@@ -1,0 +1,11 @@
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\bin\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.exe
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\bin\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.deps.json
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\bin\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.runtimeconfig.json
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\bin\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.runtimeconfig.dev.json
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\bin\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.dll
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\bin\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.pdb
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\obj\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.csprojAssemblyReference.cache
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\obj\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.AssemblyInfoInputs.cache
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\obj\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.AssemblyInfo.cs
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\obj\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.dll
+C:\Users\Mano_Caio\source\repos\Exercicio Herança e Metodo abstrato\Exercicio Herança e Metodo abstrato\obj\Debug\netcoreapp3.1\Exercicio Herança e Metodo abstrato.pdb

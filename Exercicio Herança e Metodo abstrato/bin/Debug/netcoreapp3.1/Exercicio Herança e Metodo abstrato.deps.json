@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio Herança e Metodo abstrato/1.0.0": {
+        "runtime": {
+          "Exercicio Herança e Metodo abstrato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Herança e Metodo abstrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
